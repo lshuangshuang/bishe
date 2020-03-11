@@ -83,6 +83,7 @@ INSERT INTO `sys_role` VALUES ('3', 'TEACHER', '', '2019-03-27 02:10:23', '2019-
 INSERT INTO `sys_role` VALUES ('4', 'test', 'test', '2019-04-29 02:16:48', '2019-05-22 09:51:26');
 
 -- ----------------------------
+-- sql更新
 -- Table structure for `sys_role_permission`
 -- ----------------------------
 DROP TABLE IF EXISTS `sys_role_permission`;
